@@ -35,4 +35,4 @@ This is your opportunity to show us your talents and skills. You are not limited
 
 ## Completing Time
 We would appreciate if you would complete the challenge 1 week after it has been sent.
-![image](https://user-images.githubusercontent.com/2333941/230628848-5abe6f00-b31c-436d-b998-e14f99ee66d7.png)
+
